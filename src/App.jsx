@@ -10,9 +10,9 @@ const App = () => {
 		<div className='App'>
 			<Router>
 				<Routes>
-					<Route path='/correction-app' element={<Content />} />
-					<Route path='/correction-app/correction' element={<SidebarPage />} />
-					<Route path='/correction-app/grade' element={<SidebarPageGrade />} />
+					<Route path='/correction-app/' element={<Content />} />
+					<Route path='/correction-app/correction/' element={<SidebarPage />} />
+					<Route path='/correction-app/grade/' element={<SidebarPageGrade />} />
 				</Routes>
 			</Router>
 		</div>

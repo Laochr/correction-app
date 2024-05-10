@@ -52,7 +52,6 @@ const MainPage = () => {
                 <Content
                     style={{
                         position: 'relative',
-				
                     }}
                 >
                     <div
