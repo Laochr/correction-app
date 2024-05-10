@@ -27,7 +27,7 @@ function SidebarPageGrade() {
     <Layout style={{ maxHeight: '100vh' }}>
       <Sider width={380}  style={{ background: '#fff', position: 'fixed', overflowY: 'auto', height: '100vh' }}>
         <div className='logo'>
-          <Link to='/correction-app'>
+          <Link to='/correction-app/'>
             <img
               src='./assets/LogoKids.png'
               alt='Logo'

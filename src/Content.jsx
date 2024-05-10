@@ -31,7 +31,7 @@ const MainPage = () => {
                     }}
                 >
                     <div style={{ display: 'flex', alignItems: 'center' }}>
-                        <Link to='/correction-app'>
+                        <Link to='/correction-app/'>
                             <img
                                 src='./assets/LogoKids.png'
                                 alt='Logo'
