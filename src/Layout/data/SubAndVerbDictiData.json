@@ -1,0 +1,55 @@
+[
+	{
+		"id": "exercise1",
+		"title": "sh_soun",
+		"exercise": "«Осенняя прогулка»",
+		"description": "Обогащение предметного словаря по теме «Одежда»",
+		"image": ["./assets/predment/Осення прогулка.jpg"]
+	},
+	{
+		"id": "exercise2",
+		"title": "hat_walking",
+		"exercise": "«Отправляемся за покупками»",
+		"description": "Обогащение знаний детей о продуктах питания, расширение предметного словаря.",
+		"image": ["./assets/predment/Корзина.jpg", "./assets/predment/Продукты.jpg"]
+	},
+	{
+		"id": "exercise3",
+		"title": "crinkling_paper",
+		"exercise": "«Веселый зоопарк»",
+		"description": "Закрепить и расширить словарный запас детей по теме «Животные»",
+		"image": "./assets/predment/Зоопарк.jpg"
+	},
+	{
+		"id": "exercise4",
+		"title": "hat_walking",
+		"exercise": "«Знакомство с животными и их детенышами»",
+		"description": "формирование словаря существительных, закрепление в речи детей названии детенышей животных, развитие ловкости, внимания, памяти.",
+		"image": "./assets/predment/Животные.jpg"
+	},
+	{
+		"id": "exercise5",
+		"title": "hat_walkin",
+		"exercise": "«Кто что делает»",
+		"description": "обогащать глагольный словарь детей.",
+		"image": [
+			"./assets/predment/Профессии.jpg"
+		]
+	},
+	{
+		"id": "exercise7",
+		"title": "hat_walkin",
+		"exercise": "«Что делает Маша?»",
+		"description": "Обогащение словаря детей простыми глаголами",
+		"image": [
+			"./assets/predment/Что делает.jpg"
+		]
+	},
+	{
+		"id": "exercise6",
+		"title": "hat_walki",
+		"exercise": "«Кто что делает»",
+		"description": "Расширение глагольного словаря, развитие умений согласовывать глаголы с существительными",
+		"image": "./assets/predment/Что делает 2.jpg"
+	}
+]

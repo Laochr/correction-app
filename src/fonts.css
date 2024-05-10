@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Montserrat-Medium';
+	src: url ("../assets/fonts/Montserrat/static/Montserrat-BoldItalic.ttf") format ('ttf')
+ }
+ 
+ .App {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700
+	
+ }

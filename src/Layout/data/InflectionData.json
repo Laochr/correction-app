@@ -1,0 +1,112 @@
+[
+	{
+		"id": "exercise1",
+		"title": "sh_sound",
+		"exercise": "«Один-много»",
+		"description": "учить дифференцировать существительные именительного падежа единственного и множественного числа.",
+		"image": ["./assets/slovoobraz/11.jpg", "./assets/slovoobraz/111.jpg", "./assets/slovoobraz/1111.jpg" , "./assets/slovoobraz/11111.jpg", "./assets/slovoobraz/111111.jpg" , "./assets/slovoobraz/1111111.jpg", "./assets/slovoobraz/11111111.jpg"]
+	},
+	{
+		"id": "exercise2",
+		"title": "hat_walking",
+		"exercise": "«Помоги закончить предложение»",
+		"description": "закреплять в речи ребенка беспредложные конструкции единственного числа винительного падежа с нулевым окончанием неодушевленных существительных.",
+		"image": "./assets/slovoobraz/Помоги закончить пред.jpg"
+	},
+	{
+		"id": "exercise3",
+		"title": "crinkling_paper",
+		"exercise": "«Мы ходили в зоопарк»",
+		"description": "",
+		"image": "./assets/slovoobraz/Снова зоопарк.jpg"
+	},
+	{
+		"id": "exercise4",
+		"title": "hat_walking",
+		"exercise": "«Вопрос-ответ»",
+		"description": "закреплять в речи ребенка беспредложные конструкции единственного числа в форме дательного падежа существительных.",
+		"image": "./assets/slovoobraz/Вопрос ответ.jpg"
+	},
+	{
+		"id": "exercise5",
+		"title": "hat_walkin",
+		"exercise": "«Он-Они»",
+		"description": "учить согласовывать имена существительные с глаголами настоящего времени 3 лица в числе.",
+		"image": ["./assets/slovoobraz/Дети/IMG-20240421-WA0061.jpg", 
+        "./assets/slovoobraz/Дети/IMG-20240421-WA0063.jpg", 
+        "./assets/slovoobraz/Дети/IMG-20240421-WA0064.jpg" , 
+        "./assets/slovoobraz/Дети/IMG-20240421-WA0068.jpg"]
+	},
+	{
+		"id": "exercise6",
+		"title": "hat_walki",
+		"exercise": "«Дни недели»",
+		"description": "учить понимать и употреблять предложно-падежные конструкции единственного числа.",
+		"image": "./assets/slovoobraz/Дни недели.jpg"
+	},
+	{
+		"id": "exercise7",
+		"title": "hat_walk",
+		"exercise": "«Помоги Незнайке»",
+		"description": "",
+		"image": "./assets/slovoobraz/Незнайка.jpg"
+	},
+	{
+		"id": "exercise8",
+		"title": "hat_wal",
+		"exercise": "«Идем в гости»",
+		"description": "закреплять в речи беспредложные конструкции множественного числа в форме дательного и творительного падежей существительных.",
+		"image": [
+			"./assets/slovoobraz/Гости жуки.jpg",
+			"./assets/slovoobraz/гости кролики.jpg",
+			"./assets/slovoobraz/Гости у бабули.jpg"
+			
+		]
+	},
+	{
+		"id": "exercise9",
+		"title": "hat_wa",
+		"exercise": "«Я-ТЫ-ОН-ОНА»",
+		"description": "учить дифференцировать глаголы 1, 2, 3 лица настоящего времени.",
+		"image": "./assets/slovoobraz/Я ты он.jpg"
+	},
+	{
+		"id": "exercise10",
+		"title": "hat_w",
+		"exercise": "«Крути и говори»",
+		"description": "учить согласовывать имена существительные с глаголами в числе.",
+		"image": "./assets/slovoobraz/Крути и говори.jpg"
+	},
+	{
+		"id": "exercise11",
+		"title": "hat_",
+		"exercise": "«Подбери слова»",
+		"description": " учить детей согласовывать прилагательные с существительными в именительном падеже единственного и множественного числа.",
+		"image": [
+			"./assets/slovoobraz/подбери1.jpg",
+			"./assets/slovoobraz/Подбери 2.jpg",
+            "./assets/slovoobraz/подбери 3.jpg"
+		]
+	},
+	{
+		"id": "exercise12",
+		"title": "hat",
+		"exercise": "«Подбери слова»",
+		"description": "учить детей согласовывать прилагательные с существительными в именительном падеже единственного и множественного числа.",
+		"image": [
+			"./assets/slovoobraz/Что видишь.jpg"
+		]
+	},
+	{
+		"id": "exercise13",
+		"title": "hat",
+		"exercise": "«Скажи, что видишь»",
+		"description": "учить детей согласовывать прилагательные с существительными в косвенных падежах множественного числа.",
+		"image": [
+			"./assets/slovoobraz/Новая папка/IMG-20240421-WA0049.jpg",
+			"./assets/slovoobraz/Новая папка/IMG-20240421-WA0050.jpg",
+            "./assets/slovoobraz/Новая папка/IMG-20240421-WA0052.jpg",
+            "./assets/slovoobraz/Новая папка/IMG-20240421-WA0055.jpg"
+		]
+	}
+]

@@ -1,0 +1,74 @@
+[
+    {
+      "id": "exercise1",
+      "title": "sh_soun",
+      "exercise": "«Кто сказал Мяу?»",
+      "description": "узнавание и различение неречевых звуков.",
+      "image": [
+        { "src": "./assets/звуки/собака.jpg", "soundSrc": "./assets/звуки/собака.mp3" },
+        { "src": "./assets/звуки/свинья.jpg", "soundSrc": "./assets/звуки/свинья.mp3" },
+        { "src": "./assets/звуки/лощадь.jpg", "soundSrc": "./assets/звуки/лошадь.mp3" },
+        { "src": "./assets/звуки/петух.jpg", "soundSrc": "./assets/звуки/петух.mp3" },
+        { "src": "./assets/звуки/баран.jpg", "soundSrc": "./assets/звуки/баран.mp3" },
+        { "src": "./assets/звуки/корова.jpg", "soundSrc": "./assets/звуки/корова.mp3" },
+        { "src": "./assets/звуки/коза.jpg", "soundSrc": "./assets/звуки/коза.mp3" },
+        { "src": "./assets/звуки/кошка.jpg", "soundSrc": "./assets/звуки/кошка.mp3" }
+      ]
+    },
+    {
+      "id": "exercise2",
+      "title": "hat_walking",
+      "exercise": "«Пчёлы и мёд»",
+      "description": "различение высоты, силы, тембра голоса на материале одинаковых звуков, слов, фраз.",
+      "image": [
+        { "src": "./assets/звуки/пчела мал.jpg", "soundSrc": "./assets/звуки/звук пчелы.mp3" },
+        { "src": "./assets/звуки/большая пчела.jpg", "soundSrc": "./assets/звуки/звук пчелы.mp3" }
+      ]
+    },
+    {
+      "id": "exercise3",
+      "title": "crinkling_paper",
+      "exercise": "«Слушай и выбирай»",
+      "description": "различение слов, близких по своему звуковому составу.",
+      "image": [
+        { "src": "./assets/звуки/сом.jpg"},
+        { "src": "./assets/звуки/дом.jpg" },
+        { "src": "./assets/звуки/лук.jpg"},
+        { "src": "./assets/звуки/жук.jpg"},
+        { "src": "./assets/звуки/малина.jpg" },
+        { "src": "./assets/звуки/машина.jpg" },
+        { "src": "./assets/звуки/коса.jpg"},
+        { "src": "./assets/звуки/коза.jpg" }
+      ]
+    },
+    {
+      "id": "exercise4",
+      "title": "hat_walking",
+      "exercise": "«Поймай слог»",
+      "description": "дифференциация слогов.",
+      "image": { "src": "./assets/звуки/слушай и выбирай.jpg"}
+    },
+    {
+      "id": "exercise5",
+      "title": "hat_walkin",
+      "exercise": "«Покажи картинку»",
+      "description": "дифференциация фонем.",
+      "image": [
+        { "src": "./assets/звуки/покажи1.jpg"},
+        { "src": "./assets/звуки/покажи 2.jpg"},
+        { "src": "./assets/звуки/покажи 3.jpg" }
+      ]  
+    },
+    {
+      "id": "exercise6",
+      "title": "hat_walkin",
+      "exercise": " «Узнай слово»",
+      "description": "развитие навыков элементарного звукового анализа",
+      "image": [
+        { "src": "./assets/звуки/узнай 1.jpg"},
+        { "src": "./assets/звуки/узнай 2.jpg" }
+          
+      ]
+    }
+  ]
+  

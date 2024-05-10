@@ -5,6 +5,7 @@
   text-align: center;
 }
 
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -40,3 +41,31 @@
 .read-the-docs {
   color: #888;
 }
+
+/* styles.css */
+.sidebar {
+    width: 200px;
+    background-color: #f0f0f0;
+    float: left;
+}
+
+.content {
+    margin-left: 220px; /* Учитывайте ширину сайдбара */
+}
+::-webkit-scrollbar {
+	width: 8px;
+}
+
+::-webkit-scrollbar-track {
+	background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #95b7e7;
+	border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #ffffff;
+}
+

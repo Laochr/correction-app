@@ -1,0 +1,40 @@
+[
+	{
+		"id": "exercise1",
+		"title": "sh_sound",
+		"exercise": "«Вне логики»",
+		"description": "",
+		"image": [ "./assets/связ/Вне1.jpg",
+        "./assets/связ/Вне2.jpg",
+        "./assets/связ/Вне3.jpg","./assets/связ/Вне4.jpg"]
+	},
+	{
+		"id": "exercise2",
+		"title": "sh_sound",
+		"exercise": "«Волшебный телевизор»",
+		"description": "Развивать логическое мышление, закреплять умение соединять отдельные части высказывания в единое целое.",
+		"image": [ "./assets/связ/Волшеб1.jpg"]
+	},{
+		"id": "exercise3",
+		"title": "sh_sound",
+		"exercise": "«Волшебный телевизор (сказка 2)»",
+		"description": "Развивать логическое мышление, закреплять умение соединять отдельныечасти высказывания в единое целое.",
+		"image": [ "./assets/связ/Волшеб2.jpg"]
+	},{
+		"id": "exercise4",
+		"title": "sh_sound",
+		"exercise": "«Составление рассказала по серии сюжетных картинок»",
+		"description": "",
+		"image": [ "./assets/связ/картин1.jpg",
+        "./assets/связ/картин2.jpg",
+        "./assets/связ/картин3.jpg"]
+	},{
+		"id": "exercise5",
+		"title": "sh_sound",
+		"exercise": "Составление рассказа по одной сюжетной картинке",
+		"description": "",
+		"image": [ "./assets/связ/сюжет1.jpg",
+        "./assets/связ/сюжет2.jpg",
+        "./assets/связ/сюжет3.jpg"]
+	}
+]
