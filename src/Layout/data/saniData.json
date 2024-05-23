@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "tit": "Упражнение 1",
+    "exercise": "Перетаскивание предметов",
+    "description": "Перетащите предметы в сани",
+    "sleigh": "./assets/свис/С/Сани.png",
+    "items": [
+      "./assets/свис/С/1.png",
+      "./assets/свис/С/2.png",
+      "./assets/свис/С/3.png",
+      "./assets/свис/С/4.png",
+      "./assets/свис/С/5.png",
+      "./assets/свис/С/6.png",
+      "./assets/свис/С/7.png",
+      "./assets/свис/С/8.png",
+      "./assets/свис/С/9.png",
+      "./assets/свис/С/10.png",
+      "./assets/свис/С/11.png",
+      "./assets/свис/С/12.png",
+      "./assets/свис/С/13.png",
+      "./assets/свис/С/14.png",
+      "./assets/свис/С/15.png",
+      "./assets/свис/С/16.png",
+      "./assets/свис/С/17.png",
+      "./assets/свис/С/18.png",
+      "./assets/свис/С/16.png"
+    ]
+  }
+]

@@ -19,7 +19,18 @@ import InflectionData from './data/InflectionData.json';
 import RechevoeData from './data/RechevoeData.json';
 import slovoobrazData from './data/slovoobrazData.json';
 import svyzData from './data/svyzData.json';
-
+import ZvukL from './ZvukL';
+import zvukLData from './data/zvukLData.json'
+import zvukRData from './data/zvukRData.json'
+import ZvukR from './ZvukR';
+import ZvukSH from './ZvukSH';
+import zhukShData from './data/zvukSHData.json'
+import ZvukG from './ZvukG';
+import zhukGData from './data/zvukGData.json'
+import ZvukZ from './ZvukZ';
+import zvukZData from './data/zhukZData.json'
+import Sani from './Sani';
+import saniData from './data/saniData.json'
 const { Sider, Content } = Layout;
 const { SubMenu } = Menu;
 
@@ -168,12 +179,20 @@ function SidebarPage() {
                   {exercise.exercise}
                 </Menu.Item>
               ))}
+           
             </Menu>
+                <Menu className="submenu-items" title="Сани">
+                  {saniData.map(exercise => (
+                    <Menu.Item key={exercise.id} onClick={() => handleMenuClick('Sani', exercise)}>
+                      {exercise.exercise}
+                    </Menu.Item>
+                  ))}
+                </Menu>
             </SubMenu>
             <SubMenu key="submenu1_2" title="Звук З">
             <Menu className="submenu-items"> 
-              {svyzData.map(exercise => (
-                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('svyz', exercise)}>
+              {zvukZData.map(exercise => (
+                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('ZvukZ', exercise)}>
                   {exercise.exercise}
                 </Menu.Item>
               ))}
@@ -183,8 +202,8 @@ function SidebarPage() {
             <SubMenu key="submenu2" title="Шипящие">
             <SubMenu key="submenu1_1" title="Звук Ш">
             <Menu className="submenu-items"> 
-              {svyzData.map(exercise => (
-                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('ZvukC', exercise)}>
+              {zhukShData.map(exercise => (
+                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('ZvukSh', exercise)}>
                   {exercise.exercise}
                 </Menu.Item>
               ))}
@@ -192,8 +211,8 @@ function SidebarPage() {
             </SubMenu>
             <SubMenu key="submenu1_2" title="Звук Ж">
             <Menu className="submenu-items"> 
-              {svyzData.map(exercise => (
-                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('svyz', exercise)}>
+              {zhukGData.map(exercise => (
+                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('ZvukG', exercise)}>
                   {exercise.exercise}
                 </Menu.Item>
               ))}
@@ -203,8 +222,8 @@ function SidebarPage() {
             <SubMenu key="submenu3" title="Соноры">
             <SubMenu key="submenu1_1" title="Звук Л">
             <Menu className="submenu-items"> 
-              {svyzData.map(exercise => (
-                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('ZvukC', exercise)}>
+              {zvukLData.map(exercise => (
+                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('ZvukL', exercise)}>
                   {exercise.exercise}
                 </Menu.Item>
               ))}
@@ -212,8 +231,8 @@ function SidebarPage() {
             </SubMenu>
             <SubMenu key="submenu1_2" title="Звук Р">
             <Menu className="submenu-items"> 
-              {svyzData.map(exercise => (
-                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('svyz', exercise)}>
+              {zvukRData.map(exercise => (
+                <Menu.Item key={exercise.id} onClick={() => handleMenuClick('ZvukR', exercise)}>
                   {exercise.exercise}
                 </Menu.Item>
               ))}
@@ -260,6 +279,24 @@ function SidebarPage() {
               )}
               {selectedMenu === 'svyz' && (
                 <Svyz exercise={selectedExercise} />
+              )}
+              {selectedMenu === 'ZvukL' && (
+                <ZvukL exercise={selectedExercise} />
+              )}
+              {selectedMenu === 'ZvukR' && (
+                <ZvukR exercise={selectedExercise} />
+              )}
+              {selectedMenu === 'ZvukSh' && (
+                <ZvukSH exercise={selectedExercise} />
+              )}
+              {selectedMenu === 'ZvukG' && (
+                <ZvukG exercise={selectedExercise} />
+              )}
+              {selectedMenu === 'ZvukZ' && (
+                <ZvukZ exercise={selectedExercise} />
+              )}
+              {selectedMenu === 'Sani' && (
+                <Sani exercise={selectedExercise} />
               )}
             </div>
           )}

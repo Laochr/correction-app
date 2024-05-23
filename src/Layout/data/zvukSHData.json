@@ -1,0 +1,90 @@
+[
+	{
+		"id": "exercise1",
+		"title": "sh_sound",
+		"tit": "Автоматизация звука [Ш] изолировано",
+		"exercise": "«Змейка»",
+		"description": "Произнеси звук [Ш] длительно на одном выдохе: ш ш ш…",
+		"image": ["./assets/шипящие/Ш/11.jpg"]
+	},
+	{
+		"id": "exercise2",
+		"title": "hat_walking",
+		"tit": "Автоматизация звука [Ш] изолировано",
+		"exercise": "«Звуковая дорожка» ",
+		"description": "Помоги змейки добраться до куалы. Помоги шмелю долететь до цветочка.",
+		"image": "./assets/шипящие/Ш/12.jpg"
+	},
+	{
+		"id": "exercise3",
+		"title": "crinkling_paper",
+		"tit": "Автоматизация звука [Ш] в  прямых слогах",
+		"exercise": "Автоматизация звука [Ш] в  прямых слогах",
+		"description": "",
+		"image": ["./assets/шипящие/Ш/13.jpg"]
+	},
+	{
+		"id": "exercise4",
+		"title": "hat_walking",
+		"tit": "Автоматизация звука [Ш] в  обратных слогах.",
+		"exercise": "Автоматизация звука [Ш] в  обратных слогах.",
+		"description": "",
+		"image": "./assets/шипящие/Ш/14.jpg"
+	},
+	{
+		"id": "exercise5",
+		"title": "hat_walking",
+		"tit": "Автоматизация[Ш] в начале слова.",
+		"exercise": "«Путешественница»",
+		"description": "Помоги Даше добраться до пещеры. Назови, что лежит на камне.",
+		"image": ["./assets/шипящие/Ш/15.jpg"]
+	},
+	{
+		"id": "exercise6",
+		"title": "hat_walking",
+		"tit": "Автоматизация[Ш] в середине.",
+		"exercise": "«Путешественница»",
+		"description": "Помоги Даше добраться до пещеры. Назови, что лежит на камне.",
+		"image": ["./assets/шипящие/Ш/151.jpg"]
+	},
+	{
+		"id": "exercise7",
+		"title": "hat_walking",
+		"tit": "Автоматизация[Ш] в конце.",
+		"exercise": "«Веселые картинки»",
+		"description": "",
+		"image": ["./assets/шипящие/Ш/16.jpg"]
+	},
+	{
+		"id": "exercise8",
+		"title": "hat_walking",
+		"tit": "",
+		"exercise": "«Речевая улитка»",
+		"description": "",
+		"image": "./assets/шипящие/Ш/17.jpg"
+	},
+	{
+		"id": "exercise10",
+		"title": "hat_walking",
+		"tit": "Автоматизация звука [Ш] в словосочетаниях",
+		"exercise": "Автоматизация звука [Ш] в словосочетаниях",
+		"description": "",
+		"image": ["./assets/шипящие/Ш/182.jpg"]
+	},
+	{
+		"id": "exercise11",
+		"title": "hat_walking",
+		"tit": "Автоматизация звука [Ш] в предложениях",
+		"exercise": "Упражнение «Что у мишки в мешке?»",
+		"description": "",
+		"image": ["./assets/шипящие/Ш/18.jpg","./assets/шипящие/Ш/181.jpg"]
+	},
+	{
+		"id": "exercise12",
+		"title": "hat_walking",
+		"tit": "Автоматизация звука [Ш] в предложениях",
+		"exercise": "Упражнение «Что в машине у Миши и Маши»",
+		"description": "",
+		"image": ["./assets/шипящие/Ш/19.jpg"]
+	}
+]
