@@ -31,6 +31,7 @@ import ZvukZ from './ZvukZ';
 import zvukZData from './data/zhukZData.json'
 import Sani from './Sani';
 import saniData from './data/saniData.json'
+import ExercisePage from './Sani';
 const { Sider, Content } = Layout;
 const { SubMenu } = Menu;
 
@@ -174,11 +175,11 @@ function SidebarPage() {
            <SubMenu key="submenu1" title="Свистящие">
             <SubMenu key="submenu1_1" title="Звук С">
             <Menu className="submenu-items"> 
-              {svyzData.map(exercise => (
+              {/* {svyzData.map(exercise => (
                 <Menu.Item key={exercise.id} onClick={() => handleMenuClick('ZvukC', exercise)}>
                   {exercise.exercise}
                 </Menu.Item>
-              ))}
+              ))} */}
            
             </Menu>
                 <Menu className="submenu-items" title="Сани">
@@ -296,8 +297,9 @@ function SidebarPage() {
                 <ZvukZ exercise={selectedExercise} />
               )}
               {selectedMenu === 'Sani' && (
-                <Sani exercise={selectedExercise} />
+                <ExercisePage exercise={selectedExercise} />
               )}
+             
             </div>
           )}
         </Content>
