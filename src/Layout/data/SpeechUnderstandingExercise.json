@@ -31,7 +31,7 @@
 		"id": "exercise5",
 		"title": "hat_walkin",
 		"exercise": "«Накрываем на стол»",
-		"description": "",
+		"description": "развитие понимания называния действий, уточнение и расширение пассивного и активного словаря по теме «Посуда».",
 		"image": [
 			"./assets/ponym/посуда.jpg",
 			"./assets/ponym/действие 2.jpg"
@@ -48,7 +48,7 @@
 		"id": "exercise12",
 		"title": "hat",
 		"exercise": "«Кто что делает»",
-		"description": "",
+		"description": "обучение пониманию действий по картинкам.",
 		"image": [
 			"./assets/ponym/кто.jpg",
 			"./assets/ponym/кто1.jpg"
