@@ -96,10 +96,10 @@
 		"image": "./assets/grade1/раздва.jpg"
 	},
 	{
-		"id": "exercise12",
+		"id": "exercise14",
 		"title": "hat_walking",
 		"tit": "4. Выявить особенности строения и подвижность артикуляционного аппарата",
-		"exercise": "Методика «Звуки и Звукоподражания»",
+		"exercise": "Методика «Звуки»",
 		"description": "выяснить особенности звукопроизношения ребенка.",
 		"image": ["./assets/grade1/звуки1.jpg", "./assets/grade1/звуки2.jpg", "./assets/grade1/звуки3.jpg", "./assets/grade1/звуки4.jpg", "./assets/grade1/звуки5.jpg", "./assets/grade1/звуки6.jpg", "./assets/grade1/звуки7.jpg"]
 	}

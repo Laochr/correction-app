@@ -7,12 +7,6 @@
 		"image": [ "./assets/соноры/Р/Щен.jpg"]
 	},
 	{
-		"id": "exercise2",
-		"title": "sh_sound",
-		"exercise": "«Ребята ловили шарики»",
-		"description": "Развивать логическое мышление, закреплять умение соединять отдельные части высказывания в единое целое.",
-		"image": [ "./assets/соноры/Р/Реб.jpg"]
-	},{
 		"id": "exercise3",
 		"title": "sh_sound",
 		"exercise": "«Речевая улитка»",
@@ -30,11 +24,6 @@
 		"exercise": "«У Ромы в коробке»",
 		"description": "",
 		"image": [ "./assets/соноры/Р/Ур.jpg"]
-	},{
-		"id": "exercise6",
-		"title": "sh_sound",
-		"exercise": "«Рита рисует»",
-		"description": "",
-		"image": [ "./assets/соноры/Р/Ри.jpg"]
 	}
+	
 ]

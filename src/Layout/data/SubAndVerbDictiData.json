@@ -1,34 +1,44 @@
 [
 	{
-		"id": "exercise1",
+		"id": 1,
 		"title": "sh_soun",
 		"exercise": "«Осенняя прогулка»",
 		"description": "Обогащение предметного словаря по теме «Одежда»",
 		"image": ["./assets/predment/Осення прогулка.jpg"]
 	},
 	{
-		"id": "exercise2",
-		"title": "hat_walking",
-		"exercise": "«Отправляемся за покупками»",
-		"description": "Обогащение знаний детей о продуктах питания, расширение предметного словаря.",
-		"image": ["./assets/predment/Корзина.jpg", "./assets/predment/Продукты.jpg"]
+    "id": 2,
+    "exercise": "«Отправляемся за покупками»",
+    "description": "Обогащение знаний детей о продуктах питания, расширение предметного словаря.",
+    "background": "./assets/predment/9.jpg",
+    "sleigh": "./assets/predment/Корзина.jpg",
+    "items": [
+      "./assets/predment/1.png",
+      "./assets/predment/2.png",
+      "./assets/predment/3.png",
+      "./assets/predment/4.png",
+      "./assets/predment/5.png",
+      "./assets/predment/6.png",
+      "./assets/predment/7.png",
+      "./assets/predment/8.png"
+	 ]
 	},
 	{
-		"id": "exercise3",
+		"id": 3,
 		"title": "crinkling_paper",
 		"exercise": "«Веселый зоопарк»",
 		"description": "Закрепить и расширить словарный запас детей по теме «Животные»",
 		"image": "./assets/predment/Зоопарк.jpg"
 	},
 	{
-		"id": "exercise4",
+		"id": 4,
 		"title": "hat_walking",
 		"exercise": "«Знакомство с животными и их детенышами»",
 		"description": "формирование словаря существительных, закрепление в речи детей названии детенышей животных, развитие ловкости, внимания, памяти.",
 		"image": "./assets/predment/Животные.jpg"
 	},
 	{
-		"id": "exercise5",
+		"id": 5,
 		"title": "hat_walkin",
 		"exercise": "«Кто что делает»",
 		"description": "обогащать глагольный словарь детей.",
@@ -37,7 +47,7 @@
 		]
 	},
 	{
-		"id": "exercise7",
+		"id": 6,
 		"title": "hat_walkin",
 		"exercise": "«Что делает Маша?»",
 		"description": "Обогащение словаря детей простыми глаголами",
@@ -46,7 +56,7 @@
 		]
 	},
 	{
-		"id": "exercise6",
+		"id": 7,
 		"title": "hat_walki",
 		"exercise": "«Кто что делает»",
 		"description": "Расширение глагольного словаря, развитие умений согласовывать глаголы с существительными",

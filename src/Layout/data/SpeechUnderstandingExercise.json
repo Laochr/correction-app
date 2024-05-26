@@ -45,6 +45,16 @@
 		"image": "./assets/ponym/действие.jpg"
 	},
 	{
+		"id": "exercise12",
+		"title": "hat",
+		"exercise": "«Кто что делает»",
+		"description": "",
+		"image": [
+			"./assets/ponym/кто.jpg",
+			"./assets/ponym/кто1.jpg"
+		]
+	},
+	{
 		"id": "exercise7",
 		"title": "hat_walk",
 		"exercise": "«Найди пару»",
@@ -86,15 +96,6 @@
 			"./assets/ponym/для чего 1.jpg",
 			"./assets/ponym/для чего 2.jpg"
 		]
-	},
-	{
-		"id": "exercise12",
-		"title": "hat",
-		"exercise": "«Кто что делает»",
-		"description": "",
-		"image": [
-			"./assets/ponym/кто.jpg",
-			"./assets/ponym/кто1.jpg"
-		]
 	}
+
 ]

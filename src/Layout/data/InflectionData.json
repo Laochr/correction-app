@@ -37,13 +37,7 @@
         "./assets/slovoobraz/Дети/IMG-20240421-WA0064.jpg" , 
         "./assets/slovoobraz/Дети/IMG-20240421-WA0068.jpg"]
 	},
-	{
-		"id": "exercise6",
-		"title": "hat_walki",
-		"exercise": "«Дни недели»",
-		"description": "учить понимать и употреблять предложно-падежные конструкции единственного числа.",
-		"image": "./assets/slovoobraz/Дни недели.jpg"
-	},
+
 	{
 		"id": "exercise7",
 		"title": "hat_walk",
@@ -70,13 +64,7 @@
 		"description": "учить дифференцировать глаголы 1, 2, 3 лица настоящего времени.",
 		"image": "./assets/slovoobraz/Я ты он.jpg"
 	},
-	{
-		"id": "exercise10",
-		"title": "hat_w",
-		"exercise": "«Крути и говори»",
-		"description": "учить согласовывать имена существительные с глаголами в числе.",
-		"image": "./assets/slovoobraz/Крути и говори.jpg"
-	},
+	
 	{
 		"id": "exercise11",
 		"title": "hat_",
@@ -91,7 +79,7 @@
 	{
 		"id": "exercise12",
 		"title": "hat",
-		"exercise": "«Подбери слова»",
+		"exercise": "«Магазин одежды»",
 		"description": "учить детей согласовывать прилагательные с существительными в именительном падеже единственного и множественного числа.",
 		"image": [
 			"./assets/slovoobraz/Что видишь.jpg"
