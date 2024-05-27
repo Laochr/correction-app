@@ -64,32 +64,28 @@ const Sani = ({ exercise }) => {
             }}
           >
             <div style={{ padding: '5px' }}>
-              <Title
-                level={3}
-                style={{
-                  marginBottom: '0px',
-                  color: '#1890ff',
-                  textAlign: 'center',
-                }}
-              >
-                {exercise.tit}
-              </Title>
-              <Title
-                level={3}
-                style={{
-                  marginBottom: '20px',
-                  color: '#1890ff',
-                  textAlign: 'center',
-                }}
-              >
-                {exercise.exercise}
-              </Title>
-              <Paragraph style={{ marginBottom: '20px', textAlign: 'center' }}>
-                <Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
-                  Цель:
-                </Text>{' '}
-                {exercise.description}
-              </Paragraph>
+                    <Title
+                       level={3}
+                       style={{
+                          marginBottom: '20px',
+                          color: '#1890ff',
+                          textAlign: 'center',
+                       }}
+                    >
+                       {exercise.exercise}
+                    </Title>
+                    <Paragraph style={{ marginBottom: '20px', textAlign: 'center' }}>
+                       <Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
+                          Цель:
+                       </Text>{' '}
+                       {exercise.tit}
+                    </Paragraph>
+                    {/* <Paragraph style={{ marginBottom: '20px', textAlign: 'center' }}>
+                       <Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
+                          Описание:
+                       </Text>{' '}
+                       {exercise.description}
+                    </Paragraph> */}
             </div>
           </Card>
           <div
@@ -129,32 +125,29 @@ const Sani = ({ exercise }) => {
             }}
           >
             <div style={{ padding: '5px' }}>
+             
               <Title
-                level={3}
-                style={{
-                  marginBottom: '0px',
-                  color: '#1890ff',
-                  textAlign: 'center',
-                }}
-              >
-                {exercise.tit}
-              </Title>
-              <Title
-                level={3}
-                style={{
-                  marginBottom: '20px',
-                  color: '#1890ff',
-                  textAlign: 'center',
-                }}
-              >
-                {exercise.exercise}
-              </Title>
-              <Paragraph style={{ marginBottom: '20px', textAlign: 'center' }}>
-                <Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
-                  Цель:
-                </Text>{' '}
-                {exercise.description}
-              </Paragraph>
+            level={3}
+            style={{
+              marginBottom: '20px',
+              color: '#1890ff',
+              textAlign: 'center',
+            }}
+          >
+            {exercise.exercise}
+          </Title>
+          <Paragraph style={{ marginBottom: '20px', textAlign: 'center' }}>
+            <Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
+              Цель:
+            </Text>{' '}
+            {exercise.tit}
+          </Paragraph>
+              {/* <Paragraph style={{ marginBottom: '20px', textAlign: 'center' }}>
+                 <Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
+                    Описание:
+                 </Text>{' '}
+                 {exercise.description}
+              </Paragraph> */}
             </div>
           </Card>
 
@@ -290,16 +283,7 @@ const ZvukG = ({ exercise }) => {
         }}
       >
         <div style={{ padding: '5px' }}>
-          <Title
-            level={3}
-            style={{
-              marginBottom: '0px',
-              color: '#1890ff',
-              textAlign: 'center',
-            }}
-          >
-            {exercise.tit}
-          </Title>
+        
           <Title
             level={3}
             style={{
@@ -314,8 +298,14 @@ const ZvukG = ({ exercise }) => {
             <Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
               Цель:
             </Text>{' '}
-            {exercise.description}
+            {exercise.tit}
           </Paragraph>
+              {/* <Paragraph style={{ marginBottom: '20px', textAlign: 'center' }}>
+                 <Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
+                    Описание:
+                 </Text>{' '}
+                 {exercise.description}
+              </Paragraph> */}
         </div>
       </Card>
 

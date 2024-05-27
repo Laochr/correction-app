@@ -44,7 +44,6 @@ const ZvukZ = ({ exercise }) => {
             }}
          >
             <div style={{ padding: '5px' }}>
-              
                <Title
                   level={3}
                   style={{
@@ -61,6 +60,12 @@ const ZvukZ = ({ exercise }) => {
                   </Text>{' '}
                   {exercise.description}
                </Paragraph>
+               {/* <Paragraph style={{ marginBottom: '20px', textAlign: 'center' }}>
+                  <Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
+                     Описание:
+                  </Text>{' '}
+                  {exercise.description}
+               </Paragraph> */}
             </div>
          </Card>
 
