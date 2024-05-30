@@ -32,6 +32,12 @@ const BreathingExerciseCard = ({ exercise }) => {
 					>
 						{exercise.exercise}
 					</Title>
+					<Paragraph >
+						<Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
+							Цель:
+						</Text>{' '}
+						{exercise.title}
+					</Paragraph>
 					<Paragraph>
 						<Text strong style={{ fontSize: '16px', color: '#1890ff' }}>
 							Описание:

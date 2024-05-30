@@ -25,7 +25,17 @@ const Grade2 = ({ exercise }) => {
 					borderRadius: '10px',
 				}}
 			>
-				<div style={{ padding: '20px' }}>
+				<div style={{ padding: '5px' }}>
+					<Title
+						level={3}
+						style={{
+							marginBottom: '0px',
+							color: '#1890ff',
+							textAlign: 'center',
+						}}
+					>
+						{exercise.tit}
+					</Title>
 					<Title
 						level={3}
 						style={{

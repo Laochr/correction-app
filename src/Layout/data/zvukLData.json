@@ -1,34 +1,40 @@
 [
 	{
+		"id": "exercise9",
+		"title": "sh_sound",
+		"exercise": "«Пароход»",
+		"description": "автоматизировать звук «Л» изолированно.",
+		"image": [ "./assets/соноры/Л/П.jpg"]
+	},{
 		"id": "exercise1",
 		"title": "sh_sound",
 		"exercise": "«Веселый самолетик»",
-		"description": "",
+		"description": "автоматизировать звук «Л» в прямых слогах.",
 		"image": [ "./assets/соноры/Л/Сам.jpg"]
 	},
 	{
 		"id": "exercise2",
 		"title": "sh_sound",
 		"exercise": "«Речевая улитка»",
-		"description": "Развивать логическое мышление, закреплять умение соединять отдельные части высказывания в единое целое.",
+		"description": "автоматизировать звук «Л» в начале слова.",
 		"image": [ "./assets/соноры/Л/лулит.jpg"]
 	},{
 		"id": "exercise3",
 		"title": "sh_sound",
 		"exercise": "«Веселые словосочетания»",
-		"description": "Развивать логическое мышление, закреплять умение соединять отдельныечасти высказывания в единое целое.",
+		"description": "автоматизировать звук «Л» в словосочетаниях.",
 		"image": [ "./assets/соноры/Л/Слов.jpg", "./assets/соноры/Л/Слов2.jpg"]
 	},{
 		"id": "exercise4",
 		"title": "sh_sound",
 		"exercise": "«Лева покладет…»",
-		"description": "",
+		"description": "автоматизировать звук «Л» в предложениях.",
 		"image": [ "./assets/соноры/Л/Лева.jpg"]
 	},{
 		"id": "exercise5",
 		"title": "sh_sound",
 		"exercise": "«Что лепит Коля»",
-		"description": "",
+		"description": "автоматизировать звук «Л» в предложениях.",
 		"image": [ "./assets/соноры/Л/Коля.jpg"]
 	}
 ]

@@ -3,26 +3,26 @@
 		"id": "exercise1",
 		"title": "sh_sound",
 		"exercise": "«Покорми щеночка»",
-		"description": "",
+		"description": "автоматизировать звук «Р» в прямых слогах.",
 		"image": [ "./assets/соноры/Р/Щен.jpg"]
 	},
 	{
 		"id": "exercise3",
 		"title": "sh_sound",
 		"exercise": "«Речевая улитка»",
-		"description": "Развивать логическое мышление, закреплять умение соединять отдельныечасти высказывания в единое целое.",
+		"description": "автоматизировать звук «Р» в начале, середине, конце слова.",
 		"image": [ "./assets/соноры/Р/Ул.jpg" ]
 	},{
 		"id": "exercise4",
 		"title": "sh_sound",
 		"exercise": "«Веселые словосочетания»",
-		"description": "",
+		"description": "автоматизировать звук «Р» в словосочетаниях.",
 		"image": [ "./assets/соноры/Р/С.jpg", "./assets/соноры/Р/С2.jpg" ]
 	},{
 		"id": "exercise5",
 		"title": "sh_sound",
 		"exercise": "«У Ромы в коробке»",
-		"description": "",
+		"description": "автоматизировать звук «Р» в предложениях.",
 		"image": [ "./assets/соноры/Р/Ур.jpg"]
 	}
 	
