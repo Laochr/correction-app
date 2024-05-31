@@ -1,8 +1,14 @@
 [
 	{
+		"id": "exercise9",
+		"title": "sh_sound",
+		"exercise": "«Комарик»",
+		"description": "автоматизировать звук «З» изолированно",
+		"image": [ "./assets/свис/З/ом.jpg" ]
+	},{
 		"id": "exercise3",
 		"title": "sh_sound",
-		"exercise": "« У Розы на розе»",
+		"exercise": "«У Розы на розе»",
 		"description": "Автоматизация звука З в прямых слогах",
 		"image": [ "./assets/свис/З/3.jpg" ]
 	},
